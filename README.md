@@ -1,4 +1,6 @@
 # docker-guarda-backup-decoder
+https://img.shields.io/docker/pulls/ppp0/guarda-backup-decoder?style=plastic
+
 A [Guarda Backup Decoder](https://github.com/guardaco/guarda-backup-decoder) image
 
 It allows you to enter your [Guarda Desktop Wallet](https://guarda.co/desktop.html) backup string and your password and see all your wallets included their address, balance and private keys
@@ -20,3 +22,9 @@ docker build -t guarda-backup-decoder .
 ```
 
 Once the container is running, point your browser to http://localhost:3000/
+
+## Thank You
+
+If you find this useful, you can buy me a nice coffee by sending 
+* ETH to address `0xBe29C421C24c46757021bFE16C9E861CEA9d0F1C`
+* ZIL to address `zil1z3trj83ye7twj56yd2z040vskeyer74wcz3jmp`
