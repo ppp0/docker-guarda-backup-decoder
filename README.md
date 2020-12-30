@@ -29,4 +29,3 @@ Once the container is running, point your browser to http://localhost:3000/
 
 If you find this useful, you can buy me a nice coffee by sending 
 * <a href="https://ethereum.org"><img src="eth-icon.png"/></a> ETH to address `0xBe29C421C24c46757021bFE16C9E861CEA9d0F1C`
-* <a href="https://www.zilliqa.com"><img src="zil-icon.png" border="0"/></a> ZIL to address `zil1z3trj83ye7twj56yd2z040vskeyer74wcz3jmp`
