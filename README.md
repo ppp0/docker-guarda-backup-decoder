@@ -28,4 +28,4 @@ Once the container is running, point your browser to http://localhost:3000/
 ## Thank You
 
 If you find this useful, you can buy me a nice coffee by sending 
-* <a href="https://ethereum.org"><img src="eth-icon.png"/></a> ETH to address `0xBe29C421C24c46757021bFE16C9E861CEA9d0F1C`
+* ADA to address <a href='https://cardanoscan.io/address/addr1q97t9f34uwqp9rhh9d0546lj0h63u4kaqqqxp06v5t7m23ahce978cky2umkjhrv7eu4626e9gmqykr0madf968n4jnqwdqlkm'>addr1q8tftyxa6lgtu5ljf9jfkdx5n3sjqvsphpkdalmpch7yvqdhce978cky2umkjhrv7eu4626e9gmqykr0madf968n4jnqzfj88r</a>
